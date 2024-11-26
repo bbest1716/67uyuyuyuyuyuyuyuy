@@ -59,31 +59,31 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SANKHYA.smil/playlist.m3u8
 #EXTINF:-1 channel-id="Trinity TV - Columbus - TTV.tt" tvg-id="Trinity TV - Columbus - TTV.tt" group-title="RELIGION" tvg-logo="http://ky-iptv.com:25461/images/594d85f50f1c7c9b6ec1860bed536bec.png",TRINITY TV
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:TRINITY_TV.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Trinity Broadcasting Network - TBN" tvg-id="Trinity Broadcasting Network - TBN" group-title="RELIGION" tvg-logo="https://lo1.in/LOGO/AFRICA/TBN.png",TBN Trinity Broadcasting Network East
+#EXTINF:-1 channel-id="Trinity Broadcasting Network - TBN.tt" tvg-id="Trinity Broadcasting Network - TBN.tt" group-title="RELIGION" tvg-logo="https://lo1.in/LOGO/AFRICA/TBN.png",TBN Trinity Broadcasting Network East
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TBN.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="The Islamic Network - TIN" tvg-id="The Islamic Network - TIN" group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/T.I.N.DarutTarbiyah.png/200px-T.I.N.DarutTarbiyah.png" The Islamin Network TIN 
+#EXTINF:-1 channel-id="The Islamic Network - TIN.tt" tvg-id="The Islamic Network - TIN.tt" group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/T.I.N.DarutTarbiyah.png/200px-T.I.N.DarutTarbiyah.png" The Islamin Network TIN 
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:TIN.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Three Angels Broadcasting Network - 3ABN" tvg-id="Three Angels Broadcasting Network - 3ABN" group-title="RELIGION" tvg-logo="https://static.epg.best/us/3ABN.us.png",3ABN
+#EXTINF:-1 channel-id="Three Angels Broadcasting Network - 3ABN.tt" tvg-id="Three Angels Broadcasting Network - 3ABN.tt" group-title="RELIGION" tvg-logo="https://static.epg.best/us/3ABN.us.png",3ABN
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:3ABN.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="B4U Music - B4UMU" tvg-id="B4U Music - B4UMU" group-title="Bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png",B4U Music
+#EXTINF:-1 channel-id="B4U Music - B4UMU" tvg-id="B4U Music - B4UMU.tt" group-title="Bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png",B4U Music
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:B4U_MUSIC.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="B4U Movies - B4UMO" tvg-id="B4U Movies - B4UMO" group-title="Bollywood" tvg-logo="https://i.imgur.com/MhSG4sc.png",B4U Movies
+#EXTINF:-1 channel-id="B4U Movies - B4UMO.tt" tvg-id="B4U Movies - B4UMO.tt" group-title="Bollywood" tvg-logo="https://i.imgur.com/MhSG4sc.png",B4U Movies
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:B4U_MOVIES.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Zee Cinema (Canada) - ZEECIN" tvg-id="Zee Cinema (Canada) - ZEECIN" group-title="Bollywood" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cinema-in.png",ZEE CINEMA
+#EXTINF:-1 channel-id="Zee Cinema (Canada) - ZEECIN.tt" tvg-id="Zee Cinema (Canada) - ZEECIN.tt" group-title="Bollywood" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cinema-in.png",ZEE CINEMA
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:ZEE_CINEMA.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Zee World - ZEEWRL" tvg-id="Zee World - ZEEWRL" group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/ZEEWORLD.PNG",Zee World
+#EXTINF:-1 channel-id="Zee World - ZEEWRL.tt" tvg-id="Zee World - ZEEWRL.tt" group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/ZEEWORLD.PNG",Zee World
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:ZEE_WORLD.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="" tvg-id="" group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/INDIA/INDIA/ZeeBollywood.png", ZEE BOLLYWOOD
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:ZEE_BOLLYWOOD.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="ZeeTV Caribbean - Zee TV" tvg-id="ZeeTV Caribbean - Zee TV" group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/INDIA/INDIA/ZeeTv.png",Zee Tv
+#EXTINF:-1 channel-id="ZeeTV Caribbean - Zee TV.tt" tvg-id="ZeeTV Caribbean - Zee TV.tt" group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/INDIA/INDIA/ZeeTv.png",Zee Tv
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:ZEETV.smil/playlist.m3u8
 
 
@@ -94,21 +94,21 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:ZEETV.smil/playlist.m3u8
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://seeklogo.com/images/P/pro-sports-logo-A67F5EE420-seeklogo.com.gif" group-title="SPORTS",PRO SPORTS
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:PRO_SPORTS.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Rush SD (Caribbean) - RUSHSD" tvg-id="Rush SD (Caribbean) - RUSHSD" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rush.png",RUSH
+#EXTINF:-1 channel-id="Rush SD (Caribbean) - RUSHSD.tt" tvg-id="Rush SD (Caribbean) - RUSHSD.tt" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rush.png",RUSH
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:RUSH.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Flow Sports (Caribbean) - FLSPS" tvg-id="Flow Sports (Caribbean) - FLSPS" tvg-name="Flow Sports" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS.png" group-title="SPORTS",Flow Sports
+#EXTINF:-1 channel-id="Flow Sports (Caribbean) - FLSPS.tt" tvg-id="Flow Sports (Caribbean) - FLSPS.tt" tvg-name="Flow Sports" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS.png" group-title="SPORTS",Flow Sports
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609514
-#EXTINF:-1 channel-id="SportsMax (Non Jamaican Lineups) - SPMAX" tvg-id="SportsMax (Non Jamaican Lineups) - SPMAX" group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPORTSMAX.png",SPORTSMAX
+#EXTINF:-1 channel-id="SportsMax (Non Jamaican Lineups) - SPMAX.tt" tvg-id="SportsMax (Non Jamaican Lineups) - SPMAX.tt" tvg-name="SPORTS MAX" group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPORTSMAX.png",SPORTSMAX
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SPORTSMAX.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="SportsMax 2 - SPTMAX2" tvg-id="SportsMax 2 - SPTMAX2" tvg-name="" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPORTSMAX2.png" group-title="SPORTS",SPORT MAX 2
+#EXTINF:-1 channel-id="SportsMax 2 - SPTMAX2.tt" tvg-id="SportsMax 2 - SPTMAX2.tt" tvg-name="SPORTS MAX 2" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPORTSMAX2.png" group-title="SPORTS",SPORT MAX 2
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SPORTSMAX_2.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="ESPN (Caribbean) - ESPNC" tvg-id="ESPN (Caribbean) - ESPNC" group-title="SPORTS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21h-OE4-X7L._SY355_.png",ESPN HD
+#EXTINF:-1 channel-id="ESPN (Caribbean) - ESPNC.tt" tvg-id="ESPN (Caribbean) - ESPNC.tt" group-title="SPORTS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21h-OE4-X7L._SY355_.png",ESPN HD
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/15976
 
-#EXTINF:-1 channel-id="ESPN2 (Caribbean) - ESPN2" tvg-id="ESPN2 (Caribbean) - ESPN2" group-title="SPORTS" tvg-logo="https://4.bp.blogspot.com/-FV40qaNYhvc/WhIkUsb15rI/AAAAAAAAACM/8vIjddhfsb8ffPPPlBvjn_5hfzAXNO9DACLcBGAs/s1600/espannn2.jpg",ESPN 2 HD
+#EXTINF:-1 channel-id="ESPN2 (Caribbean) - ESPN2.tt" tvg-id="ESPN2 (Caribbean) - ESPN2.tt" group-title="SPORTS" tvg-logo="https://4.bp.blogspot.com/-FV40qaNYhvc/WhIkUsb15rI/AAAAAAAAACM/8vIjddhfsb8ffPPPlBvjn_5hfzAXNO9DACLcBGAs/s1600/espannn2.jpg",ESPN 2 HD
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/15974
 
 #EXTINF:-1 channel-id="ESPNU" tvg-id="ESPNU" group-title="SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/895269310012297216/S6kYh_k1_400x400.jpg",ESPN U HD
@@ -141,18 +141,18 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FOXSPORTS2.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 channel-id="Al Jazeera (English - North America) - ALJAZEE" tvg-id="Al Jazeera (English - North America) - ALJAZEE" group-title="NEWS" tvg-logo="https://static.epg.best/nl/AlJazeeraEnglish.nl.png",AlJazeera
+#EXTINF:-1 channel-id="Al Jazeera (English - North America) - ALJAZEE.tt" tvg-id="Al Jazeera (English - North America) - ALJAZEE.tt" group-title="NEWS" tvg-logo="https://static.epg.best/nl/AlJazeeraEnglish.nl.png",AlJazeera
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:ALJAZEERA.smil/playlist.m3u8
 
 
-#EXTINF:-1 channel-id="BBC News (Latin America) - BBCWN" tvg-id="BBC News (Latin America) - BBCWN" group-title="NEWS" tvg-logo="https://static.epg.best/mu/BBCWorld.mu.png",BBC WORLD
+#EXTINF:-1 channel-id="BBC News (Latin America) - BBCWN.tt" tvg-id="BBC News (Latin America) - BBCWN.tt" group-title="NEWS" tvg-logo="https://static.epg.best/mu/BBCWorld.mu.png",BBC WORLD
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:BBC_WORLD.smil/playlist.m3u8
 
 
-#EXTINF:-1 channel-id="Cable News Network International - CNNI" tvg-id="Cable News Network International - CNNI" group-title="NEWS" tvg-logo="https://static.epg.best/us/CNNInternational.us.png",CNN INTERNATIONAL
+#EXTINF:-1 channel-id="Cable News Network International - CNNI.tt" tvg-id="Cable News Network International - CNNI.tt" group-title="NEWS" tvg-logo="https://static.epg.best/us/CNNInternational.us.png",CNN INTERNATIONAL
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CNN_INTERNATIONAL.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="CGTN News - CGTN" tvg-id="CGTN News - CGTN" group-title="NEWS" tvg-logo="https://static.epg.best/cn/CGTNEnglish.cn.png",CGTN NEWS
+#EXTINF:-1 channel-id="CGTN News - CGTN.tt" tvg-id="CGTN News - CGTN.tt" group-title="NEWS" tvg-logo="https://static.epg.best/cn/CGTNEnglish.cn.png",CGTN NEWS
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CGTN_NEWS.smil/playlist.m3u8
 
 
@@ -161,16 +161,16 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 
 
 
-#EXTINF:-1 channel-id="Fox News Channel (East) - FNC" tvg-id="Fox News Channel (East) - FNC" group-title="NEWS" tvg-logo="https://static.epg.best/us/FoxNews.us.png",FOX NEWS
+#EXTINF:-1 channel-id="Fox News Channel (East) - FNC.tt" tvg-id="Fox News Channel (East) - FNC.tt" group-title="NEWS" tvg-logo="https://static.epg.best/us/FoxNews.us.png",FOX NEWS
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:FOX_NEWS.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="France 24 English HD" tvg-id="France 24 English HD" group-title="NEWS" tvg-logo="https://static.epg.best/fr/France24English.fr.png",FRANC 24 Channel
+#EXTINF:-1 channel-id="France 24 English HD.tt" tvg-id="France 24 English HD.tt" group-title="NEWS" tvg-logo="https://static.epg.best/fr/France24English.fr.png",FRANC 24 Channel
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FRANCE_24.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://lo1.in/LOGO/US/USAMIXED/HILLSONGCHANNEL.png" group-title="RELIGION",HILLSONG
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:HILLSONG.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="msnbc - msnbc" tvg-id="msnbc - msnbc" group-title="NEWS" tvg-logo="https://static.epg.best/us/MSNBC.us.png",MSNBC 
+#EXTINF:-1 channel-id="msnbc - msnbc.tt" tvg-id="msnbc - msnbc.tt" group-title="NEWS" tvg-logo="https://static.epg.best/us/MSNBC.us.png",MSNBC 
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:MSNBC.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="CNBC Africa.za" tvg-id="CNBC Africa.za" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/CNBC_Africa.svg/512px-CNBC_Africa.svg.png" group-title="Business",CNBC Africa 
@@ -179,18 +179,18 @@ https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 channel-id="Animal Planet (Latin America English) - APL" tvg-id="Animal Planet (Latin America English) - APL" group-title="KIDS" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png",ANIMAL PLANET
+#EXTINF:-1 channel-id="Animal Planet (Latin America English) - APL.tt" tvg-id="Animal Planet (Latin America English) - APL.tt" group-title="KIDS" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png",ANIMAL PLANET
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:ANIMAL_PLANET.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="BabyFirst TV - BABY1" tvg-id="BabyFirst TV - BABY1" group-title="KIDS" tvg-logo="https://static.epg.best/gb/BabyTV.uk.png",BABY TV
+#EXTINF:-1 channel-id="BabyFirst TV - BABY1.tt" tvg-id="BabyFirst TV - BABY1.tt" group-title="KIDS" tvg-logo="https://static.epg.best/gb/BabyTV.uk.png",BABY TV
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:BABY_TV.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Cartoon Network (Latin America in English) - TOON" tvg-id="Cartoon Network (Latin America in English) - TOON" group-title="KIDS" tvg-logo="https://static.epg.best/us/CartoonNetwork.us.png",CARTOON Network
+#EXTINF:-1 channel-id="Cartoon Network (Latin America in English) - TOON.tt" tvg-id="Cartoon Network (Latin America in English) - TOON.tt" group-title="KIDS" tvg-logo="https://static.epg.best/us/CartoonNetwork.us.png",CARTOON Network
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:CARTOON.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 channel-id="Cartoonito International (Latin America - English) - CTNO" tvg-id="Cartoonito International (Latin America - English) - CTNO" tvg-name="Cartoonito" tvg-logo="http://www.islandconservation.org/wp-content/uploads/2015/05/Island-Conservation-caribbean-projects.png" group-title="KIDS",Cartoonito
+#EXTINF:-1 channel-id="Cartoonito International (Latin America - English) - CTNO.tt" tvg-id="Cartoonito International (Latin America - English) - CTNO.tt" tvg-name="Cartoonito" tvg-logo="http://www.islandconservation.org/wp-content/uploads/2015/05/Island-Conservation-caribbean-projects.png" group-title="KIDS",Cartoonito
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609451
 
 
@@ -200,13 +200,13 @@ http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609451
 
 
 
-#EXTINF:-1 channel-id="Discovery Kids Latin America (English) - DKIDEN" tvg-id="Discovery Kids Latin America (English) - DKIDEN" group-title="KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-kids-america-latina-us.png",DISCOVERY KIDS
+#EXTINF:-1 channel-id="Discovery Kids Latin America (English) - DKIDEN.tt" tvg-id="Discovery Kids Latin America (English) - DKIDEN.tt" group-title="KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-kids-america-latina-us.png",DISCOVERY KIDS
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:DISCOVERY_KIDS.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Disney Channel (Multi Country - English) - Disney Cha" tvg-id="Disney Channel (Multi Country - English) - Disney Cha" group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyChannel.us.png",DISNEY
+#EXTINF:-1 channel-id="Disney Channel (Multi Country - English) - Disney Cha.tt" tvg-id="Disney Channel (Multi Country - English) - Disney Cha.tt" group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyChannel.us.png",DISNEY
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:DISNEY.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Disney XD (East)" tvg-id="Disney XD (East)" group-title="KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_xd_us.png",DISNEY XD
+#EXTINF:-1 channel-id="Disney XD (East).tt" tvg-id="Disney XD (East).tt" group-title="KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_xd_us.png",DISNEY XD
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:DISNEYXD.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="NickJrEast.us" tvg-id="NickJrEast.us" group-title="KIDS" tvg-logo="https://static.epg.best/us/NickJr.us.png",NICK JR
@@ -215,17 +215,17 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:NICK_JR.smil/playlist.m3u8
 #EXTINF:-1 channel-id="Nicktoons Network (East)" tvg-id="Nicktoons Network (East)" group-title="KIDS" tvg-logo="https://static.epg.best/us/Nicktoons.us.png",NICK TOON
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:NICK_TOONS.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Nickelodeon (Latin America North, English) - NICK" tvg-id="Nickelodeon (Latin America North, English) - NICK" group-title="KIDS" tvg-logo="https://static.epg.best/us/Nickelodeon.us.png",NICKELODEON
+#EXTINF:-1 channel-id="Nickelodeon (Latin America North, English) - NICK.tt" tvg-id="Nickelodeon (Latin America North, English) - NICK.tt" group-title="KIDS" tvg-logo="https://static.epg.best/us/Nickelodeon.us.png",NICKELODEON
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:NICKELODEON.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="Tooncast Latin America (English) - TOONC" tvg-id="Tooncast Latin America (English) - TOONC" tvg-name="TOONCAST" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/TOONCAST.png" group-title="KIDS",TOONCAST
+#EXTINF:-1 channel-id="Tooncast Latin America (English) - TOONC.tt" tvg-id="Tooncast Latin America (English) - TOONC.tt" tvg-name="TOONCAST" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/TOONCAST.png" group-title="KIDS",TOONCAST
 http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609630
 
 #EXTINF:-1 channel-id="" tvg-id="" group-title="KIDS" tvg-logo="https://static.epg.best/us/PBSKids.us.png",PBS KIDS
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:PBS_KIDS.smil/playlist.m3u8
 
 
-#EXTINF:-1 channel-id="Smile of a Child - SOAC" tvg-id="Smile of a Child - SOAC" group-title="KIDS" tvg-logo="https://static.epg.best/gr/SmileTV.gr.png",SMILE
+#EXTINF:-1 channel-id="Smile of a Child - SOAC.tt" tvg-id="Smile of a Child - SOAC.tt" group-title="KIDS" tvg-logo="https://static.epg.best/gr/SmileTV.gr.png",SMILE
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SOAC.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="" tvg-id="RyanandFriends.us" tvg-logo="https://i.imgur.com/uG675tT.png" group-title="KIDS",Ryan and Friends 
@@ -240,7 +240,7 @@ https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/nevco/G0644_005/playlist.m3u8
 
 
 
-#EXTINF:-1 channel-id="AandE Network (East) - AandE" tvg-id="AandE Network (East) - AandE" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AandE.us.png",A&E
+#EXTINF:-1 channel-id="AandE Network (East) - AandE.tt" tvg-id="AandE Network (East) - AandE.tt" group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AandE.us.png",A&E
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:AE.smil/playlist.m3u8
 
 
