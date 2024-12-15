@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://www.bevy.be/generate/5HyabuxTBx.xml"
+#EXTM3U x-tvg-url="https://www.bevy.be/generate/5HyabuxTBx.xml"
 
 #EXTINF:-1 channel-id="CNC TV3 - CNC3.tt" tvg-id="CNC TV3 - CNC3.tt" group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CNC3.smil/playlist.m3u8
@@ -14,7 +15,7 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:TV6.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SYNERGY.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="Tempo - TEMPO" tvg-id="Tempo - TEMPO.tt" tvg-name="TEMPO" tvg-logo="https://www.temponetworks.com/wp-content/uploads/2018/05/TEMPO-Logo-RGB-copy-300x300.png" group-title="ENTERTAINMENT",TEMPO
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609623
+http://extraott.com:80/live/1577882060/3714659100/76411.m3u8
 
 
 
