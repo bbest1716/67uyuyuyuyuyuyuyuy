@@ -3,3 +3,12 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/generate/5HyabuxTBx.xml"
 #EXTINF:-1 channel-id="CNC TV3 - C" tvg-id="CNC TV3 - C" group-title="UPDATE NEEDED" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",UPDATE NEEDED CONTACT SUPPORT 
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CC3.smil/playlist.m3u8
+
+#EXTINF:-1 channel-id="CNC TV3 - CNC3.tt" tvg-id="CNC TV3 - CNC3.tt" group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CNC3.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="TTT Limited (Caribbean New Media Group) - TTTLIM.tt" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TTT.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="Caribbean Communications Network TV6 - CCNTV6.tt" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",CCN TV6
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:TV6.smil/playlist.m3u8
