@@ -329,7 +329,7 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FOOD_NETWORK.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Flow 1 (Trinidad Only) HDTV - FLOW1.tt" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOW.png" group-title="ENTERTAINMENT",FLOW 1
-http://defaultgen.com:3050/ccnel76@gmail.com/nkApGMAWzH/609513
+http://extraott.com:80/live/1577882060/3714659100/34928.m3u8
 
 
 
@@ -768,8 +768,22 @@ https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/15972
 #EXTINF:-1 channel-id="ESPN Deportes HD (3313).us" tvg-id="ESPN Deportes HD (3313).us" group-title="SPORTS" tvg-logo="https://seeklogo.com/images/E/espn-deportes-logo-5C44C905CD-seeklogo.com.png",ESPN DEPORTES HD
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/15970
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",CAR| ESPN 2 CARIBBEAN HD
+http://extraott.com:80/live/1577882060/3714659100/195836.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",CAR| ESPN CARIBBEAN FHD
+http://extraott.com:80/live/1577882060/3714659100/195837.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",CAR| SPORTS MAX FHD
+http://extraott.com:80/live/1577882060/3714659100/195868.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",CAR| SPORTS MAX 2 FHD
+http://extraott.com:80/live/1577882060/3714659100/195869.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",CAR| C SPORT HD
+http://extraott.com:80/live/1577882060/3714659100/82150.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",CAR| C SPORT 2 HD
+http://extraott.com:80/live/1577882060/3714659100/82151.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",CAR| TVJ SPORTS JAMAICA HD
+http://extraott.com:80/live/1577882060/3714659100/195897.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i2.wp.com/weplay.co/wp-content/uploads/2018/11/Premier-Sports.png?fit=960%2C960&ssl=1",PREMIER SPORTS 1
