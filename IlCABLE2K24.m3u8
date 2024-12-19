@@ -301,11 +301,11 @@ http://iptvcdn.airlinktt.co/ttorigin03/live/smil:BRAVO.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="",CALA WESTERN FHD
+#EXTINF:-1 channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://images.marketpath.com/30d234ca-7745-49ef-a833-4db751b82984/image/d183bcef-32c3-43a2-be55-8960793db713/calawesterns-gradient.png",CALA WESTERN FHD
 http://extraott.com:80/live/1577882060/3714659100/76416.m3u8
-#EXTINF:-1  channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="",CALA WEATHER FHD
+#EXTINF:-1  channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://images.marketpath.com/30d234ca-7745-49ef-a833-4db751b82984/image/9f096de1-898a-4d5d-a46b-ef2f7aa0b75e/calaweather-gradient.png",CALA WEATHER FHD
 http://extraott.com:80/live/1577882060/3714659100/76417.m3u8
-#EXTINF:-1  channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="",CALA CLASSIC FHD
+#EXTINF:-1  channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://images.marketpath.com/30d234ca-7745-49ef-a833-4db751b82984/image/16c59e92-710b-41c7-9617-8cb3a7fdb40f/logo-calaclassics.png",CALA CLASSIC FHD
 http://extraott.com:80/live/1577882060/3714659100/76418.m3u8
 #EXTINF:-1  channel-id="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="",CALA BASH FHD
 http://extraott.com:80/live/1577882060/3714659100/76419.m3u8
