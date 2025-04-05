@@ -1,6 +1,1853 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://www.bevy.be/generate/5HyabuxTBx.xml"
 
-#EXTINF:-1 channel-id="CNC TV3 - CNC3.tt" tvg-id="CNC TV3 - CNC3.tt" group-title="ENTERTAINMENT" tvg-logo="https://github.com/bbest1716/67uyuyuyuyuyuyuyuy/blob/main/Imge%20logo/software-update.jpg",UPDATING PLEASE WAIT. LIMITED CHANNEL PLAYLIST
-https://github.com/bbest1716/67uyuyuyuyuyuyuyuy/raw/refs/heads/main/WhatsApp%20Video%202025-04-04%20at%2023.28.19_8fd68536.mp4
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/trinidad1.xml"
 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CNC3.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TTT.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",CCN TV6
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:TV6.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/synergy-tv-tt.png",Synergy
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SYNERGY.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/TTENTRINIDAD.PNG",TTEN
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:TTEN.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Gayelle_%28logo%29.jpg",Gayelle
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:GAYELLE.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/TV_4_%28Trinidad_and_Tobago%29_%28logo%29.gif",TIC 4
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TIC4.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/BAHAMASPARLIAMENT.PNG",PARLIAMENT CHANNEL
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:PARLIAMENT.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/UbCiAvI.jpeg",BIZZ TV
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:MCTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/bbest1716/67uyuyuyuyuyuyuyuy/refs/heads/main/Imge%20logo/wesn_logo.6a0d578ac2656880f39d.png",WESN
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:WESN.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Ietv.jpg",IETV
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:IETV.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/Islamic_Broadcasting_Network.png",IBN
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:IBN.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://afraraymond.files.wordpress.com/2020/12/tv-jaagriti-logo.jpg",JAAGRITI TV
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:JAAGRITI.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://www.lyngsat.com/logo/tv/ll/living-faith-tv-us.png",LIVING FAITH
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:LIVING_FAITH.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bollywood" tvg-logo="https://media0.giphy.com/avatars/sankhyagestao/UVPKGrjVSFrX.png",SANKHYA TV
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SANKHYA.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGION" tvg-logo="http://ky-iptv.com:25461/images/594d85f50f1c7c9b6ec1860bed536bec.png",TRINITY TV
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:TRINITY_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://lo1.in/LOGO/AFRICA/TBN.png",TBN Trinity Broadcasting Network East
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TBN.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/T.I.N.DarutTarbiyah.png/200px-T.I.N.DarutTarbiyah.png",The Islamin Network TIN
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:TIN.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://static.epg.best/us/3ABN.us.png",3ABN
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:3ABN.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bollywood" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cinema-in.png",ZEE CINEMA
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:ZEE_CINEMA.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/ZEEWORLD.PNG",Zee World
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:ZEE_WORLD.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/INDIA/INDIA/ZeeBollywood.png",ZEE BOLLYWOOD
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:ZEE_BOLLYWOOD.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/INDIA/INDIA/ZeeTv.png",Zee Tv
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:ZEETV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/INDIA/INDIA/ZeeTv.png",ZING
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:ZING.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://seeklogo.com/images/P/pro-sports-logo-A67F5EE420-seeklogo.com.gif",PRO SPORTS
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:PRO_SPORTS.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rush.png",RUSH
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:RUSH.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPORTSMAX.png",SPORTSMAX
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SPORTSMAX.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPORTSMAX2.png",SPORT MAX 2
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SPORTSMAX_2.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stmgroup.xyz/logo/NBA.png",NBA TV
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:NBA_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/nl/AlJazeeraEnglish.nl.png",AlJazeera
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:ALJAZEERA.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/mu/BBCWorld.mu.png",BBC WORLD
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:BBC_WORLD.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/CNNInternational.us.png",CNN INTERNATIONAL
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CNN_INTERNATIONAL.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/cn/CGTNEnglish.cn.png",CGTN NEWS
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CGTN_NEWS.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/820?cb=20190417224656",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/FoxNews.us.png",FOX NEWS
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:FOX_NEWS.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/fr/France24English.fr.png",FRANC 24 Channel
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FRANCE_24.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://lo1.in/LOGO/US/USAMIXED/HILLSONGCHANNEL.png",HILLSONG
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:HILLSONG.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/MSNBC.us.png",MSNBC
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:MSNBC.smil/playlist.m3u8
+#EXTINF:-1 group-title="Business" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/CNBC_Africa.svg/512px-CNBC_Africa.svg.png",CNBC Africa
+https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png",ANIMAL PLANET
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:ANIMAL_PLANET.smil/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/gb/BabyTV.uk.png",BABY TV
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:BABY_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/CartoonNetwork.us.png",CARTOON Network
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:CARTOON.smil/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-kids-america-latina-us.png",DISCOVERY KIDS
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:DISCOVERY_KIDS.smil/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/DisneyChannel.us.png",DISNEY
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:DISNEY.smil/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_xd_us.png",DISNEY XD
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:DISNEYXD.smil/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/NickJr.us.png",NICK JR
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:NICK_JR.smil/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Nicktoons.us.png",NICK TOON
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:NICK_TOONS.smil/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Nickelodeon.us.png",NICKELODEON
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:NICKELODEON.smil/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/PBSKids.us.png",PBS KIDS
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:PBS_KIDS.smil/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/gr/SmileTV.gr.png",SMILE
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SOAC.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AandE.us.png",A&E
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:AE.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/512px-American_Broadcasting_Company_Logo.svg.png",ABC
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:ABC.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AMC.us.png",AMC
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:AMC.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/J8brM2F.png",AXS TV
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imgur.com/LIuQ7MH.png",AXN
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:AXN.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BET.us.png",Bet
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:BET.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BetHer.us.png",Bet Her US
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:CENTRIC.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/BYU_tv.jpg",BYU
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:BYU.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BounceTV.us.png",Bounce
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:BOUNCE.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Bravo.us.png",BRAVO
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:BRAVO.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/KREX.us.png",CBS
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:CBS.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ca/CookingChannel.ca.png",COOKING
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:COOKING.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png",DISCOVERY
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:DISCOVERY.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ar/DiscoveryHomeHealth.ar.png",DISCOVERY HOME HEALTH
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:DISCOVERY_HOME_HEALTH.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/gb/DiscoveryTurbo.uk.png",DISCOVERY TURBO
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:DISCOVERY_TURBO.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/il/DoItYourself.il.png",DIY
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:DIY.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/au/FoodNetwork.au.png",FOOD NETWORK
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FOOD_NETWORK.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/FYI.us.png",FYI
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:FYI.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ar/HistoryChannel.ar.png",HISTORY
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:HISTORY.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/InvestigationDiscovery.us.png",INVESTIGATION DISCOVERY
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:INVESTIGATION_DISCOVERY.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/NatGeo.us.png",NAT GEO
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:NATGEO.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/WGTV.us.png",PBS
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:PBS.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Science.us.png",SCIENCE
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:SCIENCE.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ca/CBC.ca.png",CBC
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:CBC.smil/playlist.m3u8
+#EXTINF:-1 group-title="DELUXE" tvg-logo="https://logos-download.com/wp-content/uploads/2016/11/Hallmark_logo_small.png",Hallmark Channel
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:HALLMARK.smil/playlist.m3u8
+#EXTINF:-1 group-title="DELUXE" tvg-logo="https://static.epg.best/us/HallmarkMoviesMysteries.us.png",Hallmark Mov Mys
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:HALLMARK_MM.smil/playlist.m3u8
+#EXTINF:-1 group-title="DELUXE" tvg-logo="https://media.tv4.live/lifetime.movies.east.us.png",LMN
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:LMN.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Cinemax.us.png",CINEMAX
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:CINEMAX.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ca/CityTVToronto.ca.png",CITY TV
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CITY_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/au/CNBC.au.png",CNBC
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:CNBC.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png",COMEDY CENTRAL
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:COMEDY_CENTRAL.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/CoziTV.us.png",CoziTV
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:COZI_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ca/CTVToronto.ca.png",CTV
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/EEntertainment.us.png",E! Entertainment
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:E.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/WBFF.us.png",FOX
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:FOX.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Freeform.us.png",Freeform
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FREEFORM.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/FUSE.png",FUSE TV
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:FUSE.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/FX.png",FX
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FX.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Grit.us.png",Grit Network
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:GRIT.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/GameShowNetwork.us.png",Game Show Network
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:GSN.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/HGTV.us.png",HGTV
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:HGTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ca/HLN.ca.png",HLN
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:HLN.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/IndependentFilmChannel.us.png",IFC
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:IFC.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/LifetimeNetwork.us.png",Lifetime Network
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:LIFETIME.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/oprah-winfrey-network-us.png",OWN
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:OWN.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://pbs.twimg.com/profile_images/1433180516/FlixxTVlogo2_400x400.png",Flix
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:FLIXX.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png",Paramount Network
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:PARAMOUNT.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/ReelzChannel.us.png",ReelzChannel
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:REEL.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Showtime.us.png",Showtime
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SHOW.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/in/SonyMax.in.png",Sony Movie Channel
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SONY.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Starz.us.png",STARZ
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:STARS.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ar/StudioUniversal.ar.png",Studio Universal
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:STUDIO_UNIVERSAL.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/UniMas.us.png",UniMas
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:UNIMAS.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ar/UniversalChannel.ar.png",UNIVERSAL
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:UNIVERSAL.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png",UNIVISION
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:UNIVISION.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzKidsFamily.us.png",Starz Encore Family
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:COSMO.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/WJLP.us.png",MeTV
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:ME_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AMGTV.us.png",AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/MTV.us.png",MTV
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:MTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USAMY/MY.png",MY33
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:MY33.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/ar/FoxSports.ar.png",FOXSPORTS1
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FOXSPORTS1.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/ar/FoxSports2.ar.png",FOXSPORTS2
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FOXSPORTS2.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/w3eLKLw.png",IMPACT WRESTLING
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/w3eLKLw.png",IMPACT WRESTLING
+https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/ca/TravelEscape.ca.png",ESCAPE TV
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:ESCAPE.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/WDIV.us.png",NBC
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:NBC.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Syfy.us.png",Syfy
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SYFY.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png",TBS East
+http://143.244.60.30/TBS/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TLC.us.png",TLC
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TLC.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TravelChannel.us.png",Travel Channel
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:TRAVEL_CHANNEL.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TVLandEast.us.png",Tv Land
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:TV_LAND.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TVOne.us.png",TV One
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:TV_ONE.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/VH1.us.png",VH1
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:VH1.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/fr/WarnerTV.fr.png",Warner Channel
+http://iptvcdn.airlinktt.co/ttorigin07/live/smil:WARNER.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/WGNAMERICA.png",WGN
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:WGN.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/WPIX.us.png",WPIX Channel
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:WPIX.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://boatshow.tv/wp-content/uploads/2022/09/theboatshow-logo-62x62.png",BOAT SHOW
+https://e99f8e610cd24f40a2c5f054d33aad3a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheBoatShow/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cbs-news-us.png",CBS NEWS
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 group-title="KUFU" tvg-logo="https://image.xumo.com/v1/channels/channel/9999302/300x300.png?type=smartCast_channelTile",HI-YAH
+https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="KUFU" tvg-logo="https://comps.gograph.com/martial-arts-logo-illustration_gg101283819.jpg",MARTIA ART
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5eea605474085f0040ddc770&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---
+#EXTINF:-1 group-title="KUFU" tvg-logo="https://i.imgur.com/sz55sBl.png",Wu Tang Collection
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://i.imgur.com/J1w8bAW.png",Christian Youth Channel
+http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w884806316.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/TXamgdB.png",Entertainment Tonight
+https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/amagi7b98-AmagiMixible/master/amagi7b98-AmagiMixible.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Business" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png",FOX Business
+http://41.205.93.154/FOXBUSINESS/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png",ION
+https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Family" tvg-logo="https://i.imgur.com/1dgCvNE.png",ION Plus
+https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Life Minute
+https://amg01468-lifeminutetv-lifeminute-klowdtv-r4hhz.amagi.tv/playlist/amg01468-lifeminutetv-lifeminute-klowdtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/b475xOT.jpg",Little Guyana TV
+https://video1.getstreamhosting.com:1936/8122/8122/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",QwestTV
+https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Revry Her
+https://6bda80f950a748f2870036a8a4825727.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-73-OML-BRIGHTCOVE/mt/brightcove/73/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="NEWS",Revry News
+https://735d81460ce14f66bb1b9ebdaebd61ea.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-44-REVRYNOW-BRIGHTCOVE/mt/brightcove/44/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Story_television_logo.png",Story Television
+https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/0j5Aget.png",The Beach Show
+http://30a-tv.com/beachy.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",The Cycling Channel
+https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/FloridaChannel.png",The Florida Channel
+https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_1tqjk60s/protocol/https/format/applehttp/a.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png",Turner Classic Movies (TCM)
+http://143.244.60.30/TCM/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="http://wpcommunitymedia.org/images/city-of-white-plains.png",White Plains Community Media
+http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/Vhv5gjN.png",WildEarth
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="General" tvg-logo="https://caribbeanadvantage.com/images/CAtv-logo-512.png",Caribbean Advantage TV
+https://video2.getstreamhosting.com:19360/8216/8216.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS",30A Golf Kingdom
+https://30a-tv.com/feeds/vidaa/golf.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://lo1.in/LOGO/US/USANEWS/NEWSY.png",NEWSY
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:NEWSY.smil/playlist.m3u8
+#EXTINF:-1 group-title="Business" tvg-logo="https://i.imgur.com/43oHsHL.png",Yahoo! Finance
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Business" tvg-logo="https://i.imgur.com/801jbr9.png",TD Ameritrade Network
+https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
+#EXTINF:-1 group-title="Business" tvg-logo="hhttps://tbivision.com/files/2019/10/Bloomberg.png",Bloomberg TV+
+https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Bar Rescue
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60a3d889a5b3690008dc7fe8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce96-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=257eaf62-d268-45a0-8abf-fe20817952f9&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://www.tripsmarter.com/sites/default/files/styles/314x177/public/live_beachtv30a_0_0.jpg",Beach TV (30A)
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Best of Dr. Phil
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f760bbdf090700075d7bfe/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2ffa3ab8-f961-4798-abdc-ca98d4ae0e8c&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Beverly Hillbillies
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f7796e470510900070d4e3d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=69bf4a83-189f-4b22-bbe6-f2e09a47e049&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Big Ten Network
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Black Classics
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f85644a9493e0007a1f035/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=90e515e4-694d-47f7-9f2b-806f0a05d62c&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Black Cinema
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=93605d96-6c9d-457d-a2b4-d26d07474db9&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Classic" tvg-logo="https://i.imgur.com/2nNpGqy.png",Black Classics
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f85644a9493e0007a1f035/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90e515e4-694d-47f7-9f2b-806f0a05d62c&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Black Ink Crew
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d51e2bceca5b4b2c0e06c50/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7e1b1a9a-b2d0-478b-bbba-1d01b5d4cf5c&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Black Throwbacks
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61326275b3c86a00078e4833/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=16224f18-2a57-4fa3-bf6a-994524fcf480&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Black Visionaries
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663946c1b18d700008d9c168/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=836943b4-0ad8-4701-9506-748ebd01f06f&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Bloody Disgusting TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bloodydisgus-cineverse/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Blue Bloods
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b3b8c645b45d0007a9bb8d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fe7428fc-4fd0-424f-828f-7d5d5e9ad75c&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Bounce XL
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6176fd25e83a5f0007a464c9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c190f5a2-d746-452a-adf6-37d9268e59ae&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Bravo Vault
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549310a53fc97000838fcc9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=003ab90e-cb69-4949-9cbf-465fe6c6dc0b&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",British Comedy
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f870184865da00074210ee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743ca-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=eb435cdf-0572-470d-a677-52380a0d39e7&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",British Drama
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=efb81bc4-4de2-410c-bd56-c59e9a06a232&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Legislative;Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/512px-C-SPAN_Logo_%282019%29.svg.png",C-SPAN
+http://143.244.60.97/C-SPAN/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/pQJxov2.png",Classic Movies Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e003-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7911819c-67eb-4f58-944f-5c6c6d4d937d&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Comedy Central Animation
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280716-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0c5875b8-f67e-402d-97b3-0cf608608acb&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png",Comedy Central East
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Confess by Nosey
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634ee8f95aa9870007248333/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e21-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=208899ab-374b-4527-88b2-3b59abb6d4d4&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Court TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dae0b4841a7d0000938ddbd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e24-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dbd92d33-fc8d-4cda-9f79-5f63b98b071a&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Criminal Minds
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65653817c917a5000844bc30/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e27-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ce2ba28f-f69b-43d4-8fe5-c0f83c15cc1b&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Crunchyroll
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e28-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=95ddabd5-09c0-4680-9412-eea43c47a4da&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Dateline 24/7
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/637413d8531e0c0007442d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c41-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9854ee63-3920-417e-933f-bdf38a5a6444&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Dating Disasters
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/651f239d9c7aeb0008286823/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c42-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e4fa373b-d26b-4a30-85f4-ef286a12ac31&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Classic;Undefined",Dead or Alive
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6089788de5c8410007808e26/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1025-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=66e6d8ef-5958-4806-9fdc-ff058061dd07&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Deal or No Deal
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9debf8c881310007d7bde1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c44-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6e0ea473-5558-49ab-b31c-6b1180531eab&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Doctor Who Classic
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ce4475cd43850831ca91ce7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c46-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2bae93de-a4f6-4506-b033-58665f52d2fd&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Dog the Bounty Hunter
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c47-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca19e89b-4eb2-4f32-b300-8e26501d6dd2&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Family" tvg-logo="https://i.imgur.com/FVWqYQG.png",Dove Channel
+https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",FXX East (720p)
+http://fl2.moveonjoy.com/FXX/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",FX East (720p)
+http://fl2.moveonjoy.com/FX/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",FailArmy
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/554158e864526b29254ff105/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a358-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c35f867b-7463-4560-8d61-09b18127126b&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Family Ties
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f77939a630f530007dde654/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca60-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2d96a4ae-0762-4da9-b4eb-3198467ed4a1&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Fear Factor
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca62-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e31f1ad3-d53a-4c8d-9e63-079c41a20d98&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Feel Good Drama
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65775af3b3801200084a3aa4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca63-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5ff41eae-a60d-46c9-935b-0ae946ce3d24&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Western TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8df4bc16e34700077e77d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d102a-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b2ed67fd-7088-4b5b-bf24-daa30ff6efdc&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Kartoon Channel!
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb040d4795a6000762fe8f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=41487abb-ffc4-4eb8-b9af-df4b55bbeeae&serverSideAds=false&checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",AT&T SportsNet Pitsburgh 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10804
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",AT&T SportsNet Southwest 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10805
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",BEIN Sports 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10806
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",BEIN Sports 4 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10807
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",BEIN Sports 5 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10808
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",BEIN Sports 6 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10809
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",BEIN Sports 7 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10810
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",BEIN Sports 8 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10811
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",BEIN Sports XTRA 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10812
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",FS1 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10814
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",FS2 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10815
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Fubo Sports Network 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10816
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",MASN 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10817
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",MASN 2 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10818
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Motortrend 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10819
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",MSG 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10820
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",NBA TV 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10821
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",NBC Sports Bay Area 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10822
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",NBC Sports Philadelphia Plus 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10823
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",NESN 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10826
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",NESN PLUS 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10827
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Spectrum News 1 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10838
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",SPECTRUM Sports NET LA Dodgers 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10839
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Spectrum Sportsnet Lakers 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10840
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",SportsMAN Channel 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10841
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Stadium 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10842
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",T-UDN USA 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10843
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",ESPN 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/84666
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",ESPN 2 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/84667
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",ESPN Deportes 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/84668
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",ESPN U 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/84669
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",ESPNews 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/84670
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",FOX Soccer PLUS 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/84671
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",MLB Network 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/84672
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",NHL Network 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/84673
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",6 ABC Philadelphia 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10728
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",ABC 13 | Houston 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10731
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",ABC LOCAL 10 Miami 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10738
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",ABC News 5 | Cleveland 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10739
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",CBS | Wisconsin 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10745
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",CBS 10TV | Columbus 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10746
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",CBS 13 Sacramento 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10747
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",CBS 2 Chicago 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10748
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",CBS 3 | Philadelphia 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10750
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",CBS 4 Miami 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10751
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",CBS 46 Atlanta 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10753
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",CBS 47 Fresno 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10754
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",CBS 5 Phoenix 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10755
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",CBS 5 | Arizona 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10756
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",CBS 8 San Diego 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10757
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",CBS Cleveland 19 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10758
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",CBS KEYE | Austin 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10759
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",CBS KHOU 11 | Houston 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10760
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",CBS KKTV 11 | Colorado 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10761
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",CBS KRCG 13 | Columbia 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10762
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",CBS Las Vegas | KLAS 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10763
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",CBS News | New York 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10764
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",CBS News 6 | Orlando 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10765
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",CBS Tennessee | WTVF 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10766
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",CBS WBTV | Charlotte 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10767
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",CBS WBZ 4 | Boston 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10768
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",CBS WTAJ | Pennsylvania 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10769
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",CBS WTOC 11 | Georgia 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10770
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",CNBC 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10771
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Eleven Sports Networks 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10773
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Fox 23 Tulsa 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10775
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",FOX 25 | Boston 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10776
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",FOX 26 Houston 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10778
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",FOX 28 Columbus 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10779
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",FOX 29 Philadelphia 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10780
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",FOX 32 Chicago 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10781
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",FOX 35 Orlando 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10782
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",FOX 5 | New York 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10783
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",NBC 10 Philadelphia 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10785
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",NBC 11 Alive Atlanta 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10786
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",NBC 12 Phoenix 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10787
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",NBC 4 Columbus 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10788
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",NBC 4 WSMV | Tennessee 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10789
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",NBC 5 Chicago 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10790
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",NBC 7 San Diego 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10791
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",FOX Indiana 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10793
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",FOX WSVN 7 Miami 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10794
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",MSG 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10795
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",MSG Plus 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10796
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",MSG Plus 2 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10797
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",MSG Plus 3 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10798
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",NBC Florida Miami 6 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10800
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",NBC KSNV Las Vegas 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10801
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",NBC New York 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10802
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",NBC Universo 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10803
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",AMC 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17903
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",AXS TV 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17904
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",BTN 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17905
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Comedy Central 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17906
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Cooking Channel 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17907
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Destination America 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17909
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Cozi TV 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17910
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",FX 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17911
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Hallmark Drama 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17913
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",HBO FAMILY West 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17914
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",HLN 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17915
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",ION 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17916
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",KBTX 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17917
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",KTLA 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17918
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Laff 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17919
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Law & Crime 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17920
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Lifetime Movies Network 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17921
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Magnolia Network 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17922
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",LIFETIME 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17923
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",NBC Universo (720.)
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17924
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",NBC Universo 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17925
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",OUTDOOR HD 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17926
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Sony Movies 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17932
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Starz Encore Black 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17933
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Starz Encore EAST 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17934
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Sundance TV 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17935
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",SYFY USA 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17936
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Starz Encore Action 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17941
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Starz Encore Westerns 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17946
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",TV Land 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17949
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",U-vision 48 | KNVO Mcallen TX 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17950
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Ultra Cine 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17951
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Ultra Clásico 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17952
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Ultra Docu 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17953
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Ultra Familia 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17954
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Ultra Fiesta 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17955
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Ultra Kidz 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17956
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Ultra Mex 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17958
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",VICE 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17959
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",WE TV 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17961
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Aspire TV 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17963
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Bravo 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17964
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",CMT 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17966
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Hallmark Movies & Mysteries 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17971
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",HBO Latino 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17973
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",HBO Comedy West Dual Audio 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17974
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",HBO EAST Dual Audio 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17975
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",HBO Signature West 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17976
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",HBO ZONE West Dual Audio 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17978
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",IFC 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17979
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Own 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17985
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Showtime 2 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17986
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Sony 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/17991
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Bravo 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10706
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Destination America 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10707
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Discovery Life 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10710
+#EXTINF:-1 group-title="ENTERTAINMENT PLUS",Investigation Discovery ID 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/10712
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",CITY TV HD 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/7963
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",CNN HD 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/7964
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",Golf (T)
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/7967
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",SPORTS NET 360 HD 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/7969
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",SPORTS NET EAST HD 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/7970
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",SPORTS NET ONTARIO HD 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/7971
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",SPORTS NET WEST HD 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/7972
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",TSN 1 (T)
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/7973
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",TSN SPORTS 1 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/7974
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",TSN SPORTS 2 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/7975
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",TSN SPORTS 3 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/7976
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",TSN SPORTS 4 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/7977
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",TSN SPORTS 5 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/7978
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",TSN 1 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45802
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",TSN 3 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45803
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",TSN 5 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45804
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",Sportsnet 360 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45805
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",Sportsnet East 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45806
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",Sportsnet Ontario 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45808
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",Sportsnet Pacific 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45809
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",Sportsnet West 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45810
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",A&E 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45813
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",ABC 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45814
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",AMC 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45815
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",Animal Planet 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45816
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",Bein Sports 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45817
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",CBC 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45820
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",CBC Edmonton 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45821
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",CHCH 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45823
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",City Toronto 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45824
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",City TV 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45825
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",CMT Canada 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45826
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",CNBC 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45827
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",CNN 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45828
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",Cooking Channel 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45829
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",Cottage Life 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45830
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",CP24 (T)
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45831
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",Crave 4 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45833
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",CTV 2 Ottawa 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45834
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",CTV SCI-FI 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45836
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",CTV Vancouver 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45837
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",Dejaview 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45838
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",Disney Channel 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45839
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",Disney JR 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45840
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",Fight Network 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45844
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",Global 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45848
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",Global Halifax 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45849
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",Global Toronto 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45850
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",HBO 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45852
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",IFC 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45854
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",Love Nature 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45855
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",Movietime 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45857
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",OLN 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45858
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",OMNI 1 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45859
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",Silver Screen Classics 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45865
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",Smithsonian Channel 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45866
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",Teletoon 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45867
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",TV 5 Quebec 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45869
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",TVA Montreal 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45870
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",TVA Sports 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45871
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",YES Network 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45873
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",YES TV 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45874
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",Zeste 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/45875
+#EXTINF:-1 group-title="ENTERTAINMENT CANADA PLUS",CP24 
+http://ns2.iptvcodes.org:8080/chicoluxora09089/a7d27a6fc0f5/84194
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS", A&E
+http://zikri.xtpold.com:80/perge412/54dred4a31/68204
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA ABC
+http://zikri.xtpold.com:80/perge412/54dred4a31/68203
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA AMC
+http://zikri.xtpold.com:80/perge412/54dred4a31/68202
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA AMC PRESENTS
+http://zikri.xtpold.com:80/perge412/54dred4a31/68201
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA AMC THRILLERS
+http://zikri.xtpold.com:80/perge412/54dred4a31/68200
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA AMERICAN HEROES CHANNEL
+http://zikri.xtpold.com:80/perge412/54dred4a31/68199
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA AMG TV
+http://zikri.xtpold.com:80/perge412/54dred4a31/68198
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA ANIMAL PLANET
+http://zikri.xtpold.com:80/perge412/54dred4a31/68197
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA ANTENNA TV
+http://zikri.xtpold.com:80/perge412/54dred4a31/68196
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA ASPIRE
+http://zikri.xtpold.com:80/perge412/54dred4a31/68195
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA AWE
+http://zikri.xtpold.com:80/perge412/54dred4a31/68194
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA AXS TV
+http://zikri.xtpold.com:80/perge412/54dred4a31/68193
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA BET EAST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68192
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA BET HER
+http://zikri.xtpold.com:80/perge412/54dred4a31/68191
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA BET JAMS
+http://zikri.xtpold.com:80/perge412/54dred4a31/68190
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA BET WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68189
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA BOUNCE
+http://zikri.xtpold.com:80/perge412/54dred4a31/68188
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA BRAVO
+http://zikri.xtpold.com:80/perge412/54dred4a31/68187
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA BUZZER TV
+http://zikri.xtpold.com:80/perge412/54dred4a31/68186
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA CHARGE!
+http://zikri.xtpold.com:80/perge412/54dred4a31/68185
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA CLAN
+http://zikri.xtpold.com:80/perge412/54dred4a31/68184
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA Cleo TV
+http://zikri.xtpold.com:80/perge412/54dred4a31/68183
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA CMC
+http://zikri.xtpold.com:80/perge412/54dred4a31/68182
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA CMT
+http://zikri.xtpold.com:80/perge412/54dred4a31/68181
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA CNBC
+http://zikri.xtpold.com:80/perge412/54dred4a31/68180
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA CNBC WORLD
+http://zikri.xtpold.com:80/perge412/54dred4a31/68179
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA COMEDY CENTRAL
+http://zikri.xtpold.com:80/perge412/54dred4a31/68178
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA COMET
+http://zikri.xtpold.com:80/perge412/54dred4a31/68177
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA COOKING CHANNEL
+http://zikri.xtpold.com:80/perge412/54dred4a31/68176
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA COURT TV
+http://zikri.xtpold.com:80/perge412/54dred4a31/68175
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA COZI TV
+http://zikri.xtpold.com:80/perge412/54dred4a31/68174
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA CW
+http://zikri.xtpold.com:80/perge412/54dred4a31/68173
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA DABL
+http://zikri.xtpold.com:80/perge412/54dred4a31/68172
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA DECADES
+http://zikri.xtpold.com:80/perge412/54dred4a31/68171
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA DESTINATION AMERICA
+http://zikri.xtpold.com:80/perge412/54dred4a31/68170
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA DISCOVERY CHANNEL
+http://zikri.xtpold.com:80/perge412/54dred4a31/68169
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA DISCOVERY VELOCITY
+http://zikri.xtpold.com:80/perge412/54dred4a31/68168
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA E! ENTERTAINMENT EAST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68167
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA E! ENTERTAINMENT WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68166
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA FETV
+http://zikri.xtpold.com:80/perge412/54dred4a31/68165
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA FOOD NETWORK
+http://zikri.xtpold.com:80/perge412/54dred4a31/68164
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA FOX
+http://zikri.xtpold.com:80/perge412/54dred4a31/68163
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA FOX BUSINESS
+http://zikri.xtpold.com:80/perge412/54dred4a31/68162
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA FOX SOUL
+http://zikri.xtpold.com:80/perge412/54dred4a31/68161
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA FREEFORM
+http://zikri.xtpold.com:80/perge412/54dred4a31/68160
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA FUSE
+http://zikri.xtpold.com:80/perge412/54dred4a31/68159
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA FX
+http://zikri.xtpold.com:80/perge412/54dred4a31/68158
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA FXM
+http://zikri.xtpold.com:80/perge412/54dred4a31/68157
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA FXX
+http://zikri.xtpold.com:80/perge412/54dred4a31/68156
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA FYI
+http://zikri.xtpold.com:80/perge412/54dred4a31/68155
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA GAC LIVING
+http://zikri.xtpold.com:80/perge412/54dred4a31/68154
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA GetTV
+http://zikri.xtpold.com:80/perge412/54dred4a31/68153
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA GREAT AMERICAN COUNTRY
+http://zikri.xtpold.com:80/perge412/54dred4a31/68152
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA GRIT
+http://zikri.xtpold.com:80/perge412/54dred4a31/68151
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA GSN
+http://zikri.xtpold.com:80/perge412/54dred4a31/68150
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA HALLMARK
+http://zikri.xtpold.com:80/perge412/54dred4a31/68149
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA HALLMARK DRAMA
+http://zikri.xtpold.com:80/perge412/54dred4a31/68148
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA HALLMARK MOVIES & MORE
+http://zikri.xtpold.com:80/perge412/54dred4a31/68147
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA HALLMARK MOVIES AND MYSTERIES
+http://zikri.xtpold.com:80/perge412/54dred4a31/68146
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA  HEROES AND ICONS TV
+http://zikri.xtpold.com:80/perge412/54dred4a31/68145
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA HGTV EAST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68144
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA HGTV WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68143
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA HISTORY CHANNEL
+http://zikri.xtpold.com:80/perge412/54dred4a31/68142
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA History Military
+http://zikri.xtpold.com:80/perge412/54dred4a31/68141
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA HLN
+http://zikri.xtpold.com:80/perge412/54dred4a31/68140
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA HSN
+http://zikri.xtpold.com:80/perge412/54dred4a31/68139
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA HUNT CHANNEL
+http://zikri.xtpold.com:80/perge412/54dred4a31/68138
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA IFC
+http://zikri.xtpold.com:80/perge412/54dred4a31/68137
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA INSP
+http://zikri.xtpold.com:80/perge412/54dred4a31/68136
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA ION TV
+http://zikri.xtpold.com:80/perge412/54dred4a31/68135
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA JUSTICE CENTRAL
+http://zikri.xtpold.com:80/perge412/54dred4a31/68134
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA LAFF TV
+http://zikri.xtpold.com:80/perge412/54dred4a31/68133
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA LIFETIME
+http://zikri.xtpold.com:80/perge412/54dred4a31/68132
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA LMN
+http://zikri.xtpold.com:80/perge412/54dred4a31/68131
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA LOGO TV
+http://zikri.xtpold.com:80/perge412/54dred4a31/68130
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA MAGNOLIA NETWORK
+http://zikri.xtpold.com:80/perge412/54dred4a31/68129
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA METV
+http://zikri.xtpold.com:80/perge412/54dred4a31/68128
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA MOTORTREND
+http://zikri.xtpold.com:80/perge412/54dred4a31/68127
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA MTV2
+http://zikri.xtpold.com:80/perge412/54dred4a31/68126
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA MTVU East
+http://zikri.xtpold.com:80/perge412/54dred4a31/68125
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA NAT GEO WILD
+http://zikri.xtpold.com:80/perge412/54dred4a31/68124
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA OUTDOOR CHANNEL
+http://zikri.xtpold.com:80/perge412/54dred4a31/68123
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA OUTSIDE TV
+http://zikri.xtpold.com:80/perge412/54dred4a31/68122
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA OVATION
+http://zikri.xtpold.com:80/perge412/54dred4a31/68121
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA OWN
+http://zikri.xtpold.com:80/perge412/54dred4a31/68120
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA OXYGEN
+http://zikri.xtpold.com:80/perge412/54dred4a31/68119
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA Oxygen (West)
+http://zikri.xtpold.com:80/perge412/54dred4a31/68118
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA PBS US
+http://zikri.xtpold.com:80/perge412/54dred4a31/68117
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA PIXL
+http://zikri.xtpold.com:80/perge412/54dred4a31/68116
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA POP
+http://zikri.xtpold.com:80/perge412/54dred4a31/68115
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA PURSUIT
+http://zikri.xtpold.com:80/perge412/54dred4a31/68114
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA QVC
+http://zikri.xtpold.com:80/perge412/54dred4a31/68113
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA QVC 2
+http://zikri.xtpold.com:80/perge412/54dred4a31/68112
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA REELZ
+http://zikri.xtpold.com:80/perge412/54dred4a31/68111
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA REVOLT TV
+http://zikri.xtpold.com:80/perge412/54dred4a31/68110
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA RFD-TV
+http://zikri.xtpold.com:80/perge412/54dred4a31/68109
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA SMITHSONIAN
+http://zikri.xtpold.com:80/perge412/54dred4a31/68108
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA SUNDANCE
+http://zikri.xtpold.com:80/perge412/54dred4a31/68107
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA SYFY
+http://zikri.xtpold.com:80/perge412/54dred4a31/68106
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA TBS EAST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68105
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA TBS WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68104
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA TCM
+http://zikri.xtpold.com:80/perge412/54dred4a31/68103
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA TCM WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68102
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA THE BLAZE
+http://zikri.xtpold.com:80/perge412/54dred4a31/68101
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA THE COWBOY CHANNEL
+http://zikri.xtpold.com:80/perge412/54dred4a31/68100
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA TLC WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68099
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA TNT EAST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68098
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA TNT WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68097
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA ScreenPix Action
+http://zikri.xtpold.com:80/perge412/54dred4a31/68096
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA ScreenPix
+http://zikri.xtpold.com:80/perge412/54dred4a31/68095
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA ScreenPix Voices
+http://zikri.xtpold.com:80/perge412/54dred4a31/68094
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA ScreenPix Westerns
+http://zikri.xtpold.com:80/perge412/54dred4a31/68093
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA TRAVEL CHANNEL
+http://zikri.xtpold.com:80/perge412/54dred4a31/68092
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA TRUTV WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68091
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA THE MOVIE CHANNEL USA
+http://zikri.xtpold.com:80/perge412/54dred4a31/68090
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA TV ONE
+http://zikri.xtpold.com:80/perge412/54dred4a31/68089
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA TYT NETWORK
+http://zikri.xtpold.com:80/perge412/54dred4a31/68088
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA Up TV
+http://zikri.xtpold.com:80/perge412/54dred4a31/68087
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA USA NETWORK
+http://zikri.xtpold.com:80/perge412/54dred4a31/68086
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA USA NETWORK WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68085
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA VH1 EAST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68084
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA VH1 WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68083
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA VICELAND
+http://zikri.xtpold.com:80/perge412/54dred4a31/68082
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA VSIN
+http://zikri.xtpold.com:80/perge412/54dred4a31/68081
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA WEATHER CHANNEL
+http://zikri.xtpold.com:80/perge412/54dred4a31/68079
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA WGN 9
+http://zikri.xtpold.com:80/perge412/54dred4a31/68078
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA WGN AMERICA
+http://zikri.xtpold.com:80/perge412/54dred4a31/68077
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA WWE NETWORK
+http://zikri.xtpold.com:80/perge412/54dred4a31/68076
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA Recipe.TV HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/68075
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA METV Plus
+http://zikri.xtpold.com:80/perge412/54dred4a31/68074
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA MY38 BOSTON
+http://zikri.xtpold.com:80/perge412/54dred4a31/68073
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA ACTIONMAX
+http://zikri.xtpold.com:80/perge412/54dred4a31/68072
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA ACTIONMAX WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68071
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA CINEMAX EAST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68070
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA CINEMAX WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68069
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA MOREMAX
+http://zikri.xtpold.com:80/perge412/54dred4a31/68068
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA MOREMAX WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68067
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA OUTERMAX
+http://zikri.xtpold.com:80/perge412/54dred4a31/68066
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA THRILLERMAX
+http://zikri.xtpold.com:80/perge412/54dred4a31/68065
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA THRILLERMAX WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68064
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA EPIX
+http://zikri.xtpold.com:80/perge412/54dred4a31/68063
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA EPIX DRIVE-IN
+http://zikri.xtpold.com:80/perge412/54dred4a31/68062
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA EPIX HITS
+http://zikri.xtpold.com:80/perge412/54dred4a31/68061
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA HBO COMEDY
+http://zikri.xtpold.com:80/perge412/54dred4a31/68060
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA HBO COMEDY WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68059
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA HBO EAST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68058
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA HBO FAMILY
+http://zikri.xtpold.com:80/perge412/54dred4a31/68057
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA HBO FAMILY WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68056
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA HBO SIGNATURE
+http://zikri.xtpold.com:80/perge412/54dred4a31/68055
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA HBO SIGNATURE WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68054
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA HBO WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68053
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA HBO ZONE
+http://zikri.xtpold.com:80/perge412/54dred4a31/68052
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA HBO ZONE WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68051
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA HDNET MOVIES
+http://zikri.xtpold.com:80/perge412/54dred4a31/68050
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA SHOWTIME EAST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68049
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA SHOWTIME WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68048
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA SHOWTIME SHOWCASE
+http://zikri.xtpold.com:80/perge412/54dred4a31/68047
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA SHOWTIME SHOWCASE WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68046
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA SHOWTIME EXTREME
+http://zikri.xtpold.com:80/perge412/54dred4a31/68045
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA SHOWTIME EXTREME WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68044
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA SHOWTIME FAMILY ZONE
+http://zikri.xtpold.com:80/perge412/54dred4a31/68043
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA SHOWTIME FAMILY ZONE WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68042
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA SHOWTIME NEXT
+http://zikri.xtpold.com:80/perge412/54dred4a31/68041
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA SHOWTIME WOMEN
+http://zikri.xtpold.com:80/perge412/54dred4a31/68040
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA SHOWTIME WOMEN WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68039
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA STARZ CINEMA
+http://zikri.xtpold.com:80/perge412/54dred4a31/68038
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA STARZ CINEMA WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68037
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA STARZ EAST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68036
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA STARZ WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68035
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA STARZ COMEDY
+http://zikri.xtpold.com:80/perge412/54dred4a31/68034
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA STARZ COMEDY WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68033
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA STARZ EDGE
+http://zikri.xtpold.com:80/perge412/54dred4a31/68032
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA STARZ EDGE WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68031
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA STARZ IN BLACK
+http://zikri.xtpold.com:80/perge412/54dred4a31/68030
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA STARZENCORE ACTION
+http://zikri.xtpold.com:80/perge412/54dred4a31/68029
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA STARZENCORE ACTION WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68028
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA STARZENCORE CLASSIC
+http://zikri.xtpold.com:80/perge412/54dred4a31/68027
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA STARZENCORE CLASSIC WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68026
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA STARZENCORE FAMILY
+http://zikri.xtpold.com:80/perge412/54dred4a31/68025
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA STARZENCORE FAMILY WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68024
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA STARZENCORE SUSPENSE
+http://zikri.xtpold.com:80/perge412/54dred4a31/68023
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA STARZENCORE SUSPENSE WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68022
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA STARZENCORE WESTERNS
+http://zikri.xtpold.com:80/perge412/54dred4a31/68021
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA STARZENCORE WESTERN WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68020
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA STARZ IN BLACK WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68019
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA RETRO PLEX
+http://zikri.xtpold.com:80/perge412/54dred4a31/68018
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA RETRO PLEX WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68017
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA HBO 2
+http://zikri.xtpold.com:80/perge412/54dred4a31/68016
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA HBO 2 WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68015
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA SHOWTIME BET
+http://zikri.xtpold.com:80/perge412/54dred4a31/68014
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA SHOWTIME BET WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68013
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA 5 STARMAX
+http://zikri.xtpold.com:80/perge412/54dred4a31/68012
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA STARZ KIDS & FAMILY
+http://zikri.xtpold.com:80/perge412/54dred4a31/68011
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA STARZKIDS WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68010
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA HBO PLUS
+http://zikri.xtpold.com:80/perge412/54dred4a31/68009
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA SHOWTIME 2
+http://zikri.xtpold.com:80/perge412/54dred4a31/68008
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA SHOWTIME 2 WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68007
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA SONY MOVIES
+http://zikri.xtpold.com:80/perge412/54dred4a31/68006
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA EPIX 2
+http://zikri.xtpold.com:80/perge412/54dred4a31/68005
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA MOVIE PLEX
+http://zikri.xtpold.com:80/perge412/54dred4a31/68004
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA MOVIE PLEX WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68003
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA MOVIEMAX
+http://zikri.xtpold.com:80/perge412/54dred4a31/68002
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA STARZENCORE EAST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68001
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA STARZENCORE WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/68000
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA BABY FIRST
+http://zikri.xtpold.com:80/perge412/54dred4a31/67999
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA BOOMERANG
+http://zikri.xtpold.com:80/perge412/54dred4a31/67998
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA CARTOON NETWORK EAST
+http://zikri.xtpold.com:80/perge412/54dred4a31/67997
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA CARTOON NETWORK WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/67996
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA DISNEY CHANNEL EAST
+http://zikri.xtpold.com:80/perge412/54dred4a31/67995
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA DISNEY CHANNEL WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/67994
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA DISNEY XD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67993
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA NICK JR EAST
+http://zikri.xtpold.com:80/perge412/54dred4a31/67992
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA NICKELODEON EAST
+http://zikri.xtpold.com:80/perge412/54dred4a31/67991
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA NICK JR WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/67990
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA NICKTOONS
+http://zikri.xtpold.com:80/perge412/54dred4a31/67989
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA PBS KIDS
+http://zikri.xtpold.com:80/perge412/54dred4a31/67988
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA TEEN NICK
+http://zikri.xtpold.com:80/perge412/54dred4a31/67987
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA C-SPAN HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67986
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA C-SPAN 3 HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67985
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA BBC AMERICA
+http://zikri.xtpold.com:80/perge412/54dred4a31/67984
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA BLOOMBERG
+http://zikri.xtpold.com:80/perge412/54dred4a31/67983
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA CHEDDAR BUSINESS
+http://zikri.xtpold.com:80/perge412/54dred4a31/67982
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA CHEDDAR NEWS
+http://zikri.xtpold.com:80/perge412/54dred4a31/67981
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA CNN
+http://zikri.xtpold.com:80/perge412/54dred4a31/67980
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA FOX NEWS
+http://zikri.xtpold.com:80/perge412/54dred4a31/67979
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA INFO WARS
+http://zikri.xtpold.com:80/perge412/54dred4a31/67978
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA MSNBC
+http://zikri.xtpold.com:80/perge412/54dred4a31/67977
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA Black News Channel
+http://zikri.xtpold.com:80/perge412/54dred4a31/67976
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA ONE AMERICA NEWS
+http://zikri.xtpold.com:80/perge412/54dred4a31/67975
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA BBC WORLD NEWS
+http://zikri.xtpold.com:80/perge412/54dred4a31/67974
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA HEADLINE NEWS
+http://zikri.xtpold.com:80/perge412/54dred4a31/67973
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA NEWSMAX TV
+http://zikri.xtpold.com:80/perge412/54dred4a31/67972
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA WEATHER NATION
+http://zikri.xtpold.com:80/perge412/54dred4a31/67971
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA News 12 Connecticut
+http://zikri.xtpold.com:80/perge412/54dred4a31/67970
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA USA NEWS 12 NEW JERSEY
+http://zikri.xtpold.com:80/perge412/54dred4a31/67969
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA USA NEWS 12 LONG ISLAND
+http://zikri.xtpold.com:80/perge412/54dred4a31/67968
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA USA NEWS 12 Brooklyn
+http://zikri.xtpold.com:80/perge412/54dred4a31/67967
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA USA NEWS 12 Hudson Valley
+http://zikri.xtpold.com:80/perge412/54dred4a31/67966
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA USA NEWS 12 WESTCHESTER
+http://zikri.xtpold.com:80/perge412/54dred4a31/67965
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA USA NEWS 12 THE BRONX
+http://zikri.xtpold.com:80/perge412/54dred4a31/67964
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA CINEBOX: ACTION
+http://zikri.xtpold.com:80/perge412/54dred4a31/67963
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA CINEBOX: ANIMATION
+http://zikri.xtpold.com:80/perge412/54dred4a31/67962
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA CINEBOX: BLOCKBUSTERS
+http://zikri.xtpold.com:80/perge412/54dred4a31/67961
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA CINEBOX: CLASSIC
+http://zikri.xtpold.com:80/perge412/54dred4a31/67960
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA CINEBOX: COMEDY
+http://zikri.xtpold.com:80/perge412/54dred4a31/67959
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA CINEBOX: CULT
+http://zikri.xtpold.com:80/perge412/54dred4a31/67958
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA CINEBOX: FAMILY
+http://zikri.xtpold.com:80/perge412/54dred4a31/67957
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA CINEBOX: GREATS
+http://zikri.xtpold.com:80/perge412/54dred4a31/67956
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA CINEBOX: GREATS TWO
+http://zikri.xtpold.com:80/perge412/54dred4a31/67955
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA CINEBOX: HORROR
+http://zikri.xtpold.com:80/perge412/54dred4a31/67954
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA CINEBOX: MUSICAL
+http://zikri.xtpold.com:80/perge412/54dred4a31/67953
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA CINEBOX: MYSTERY
+http://zikri.xtpold.com:80/perge412/54dred4a31/67952
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA CINEBOX: PREMIERE
+http://zikri.xtpold.com:80/perge412/54dred4a31/67951
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA CINEBOX: ROMANCE
+http://zikri.xtpold.com:80/perge412/54dred4a31/67950
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA BEIN SPORTS HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67949
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA BEIN SPORTS 4
+http://zikri.xtpold.com:80/perge412/54dred4a31/67948
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA BEIN SPORTS 5
+http://zikri.xtpold.com:80/perge412/54dred4a31/67947
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA BEIN SPORTS 6
+http://zikri.xtpold.com:80/perge412/54dred4a31/67946
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA BEIN SPORTS 7
+http://zikri.xtpold.com:80/perge412/54dred4a31/67945
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA BEIN SPORTS 8
+http://zikri.xtpold.com:80/perge412/54dred4a31/67944
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA BEIN SPORTS EN ESPANOL
+http://zikri.xtpold.com:80/perge412/54dred4a31/67943
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA beIN Sports Xtra HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67942
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA BIG TEN NETWORK
+http://zikri.xtpold.com:80/perge412/54dred4a31/67941
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA CBS Sports HQ
+http://zikri.xtpold.com:80/perge412/54dred4a31/67940
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA CBS SPORTS NETWORK
+http://zikri.xtpold.com:80/perge412/54dred4a31/67939
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA ESPN DEPORTES
+http://zikri.xtpold.com:80/perge412/54dred4a31/67938
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA ESPN HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67937
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA ESPN U
+http://zikri.xtpold.com:80/perge412/54dred4a31/67936
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA AT&T SPORTSNET ROCKY MOUNTAIN
+http://zikri.xtpold.com:80/perge412/54dred4a31/67935
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA FIGHT NETWORK
+http://zikri.xtpold.com:80/perge412/54dred4a31/67934
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA FOX SOCCER PLUS
+http://zikri.xtpold.com:80/perge412/54dred4a31/67933
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA FOX SPORTS 1
+http://zikri.xtpold.com:80/perge412/54dred4a31/67932
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA FOX SPORTS 2
+http://zikri.xtpold.com:80/perge412/54dred4a31/67931
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA Fuel TV
+http://zikri.xtpold.com:80/perge412/54dred4a31/67930
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA Game
+http://zikri.xtpold.com:80/perge412/54dred4a31/67929
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA AT&T SPORTSNET PITTSBURGH
+http://zikri.xtpold.com:80/perge412/54dred4a31/67928
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA GOLTV (SPANISH)
+http://zikri.xtpold.com:80/perge412/54dred4a31/67927
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA LONGHORN NETWORK
+http://zikri.xtpold.com:80/perge412/54dred4a31/67926
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA MARQUEE SPORTS NETWORK
+http://zikri.xtpold.com:80/perge412/54dred4a31/67925
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA MASN
+http://zikri.xtpold.com:80/perge412/54dred4a31/67924
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA MASN 2
+http://zikri.xtpold.com:80/perge412/54dred4a31/67923
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA MAV TV
+http://zikri.xtpold.com:80/perge412/54dred4a31/67922
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA MSG
+http://zikri.xtpold.com:80/perge412/54dred4a31/67921
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA MSG 2
+http://zikri.xtpold.com:80/perge412/54dred4a31/67920
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA MSG PLUS
+http://zikri.xtpold.com:80/perge412/54dred4a31/67919
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA NBC GOLF
+http://zikri.xtpold.com:80/perge412/54dred4a31/67918
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA NBCS BAY AREA
+http://zikri.xtpold.com:80/perge412/54dred4a31/67917
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA NBCS Boston
+http://zikri.xtpold.com:80/perge412/54dred4a31/67916
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA NBCS CHICAGO
+http://zikri.xtpold.com:80/perge412/54dred4a31/67915
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA NBCS PHILADELPHIA
+http://zikri.xtpold.com:80/perge412/54dred4a31/67914
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA NBCS PHILADELPHIA PLUS
+http://zikri.xtpold.com:80/perge412/54dred4a31/67913
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA NBCS WASHINGTON
+http://zikri.xtpold.com:80/perge412/54dred4a31/67912
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA NBCSN BAY AREA PLUS
+http://zikri.xtpold.com:80/perge412/54dred4a31/67911
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA NBCSN CHICAGO PLUS
+http://zikri.xtpold.com:80/perge412/54dred4a31/67910
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA NBCSN WASHINGTON PLUS
+http://zikri.xtpold.com:80/perge412/54dred4a31/67909
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA NESN
+http://zikri.xtpold.com:80/perge412/54dred4a31/67908
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA NESN FHD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67907
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA NESN PLUS
+http://zikri.xtpold.com:80/perge412/54dred4a31/67906
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA PAC 12 Arizona
+http://zikri.xtpold.com:80/perge412/54dred4a31/67905
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA PAC 12 Mountain
+http://zikri.xtpold.com:80/perge412/54dred4a31/67904
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA PAC 12 Network
+http://zikri.xtpold.com:80/perge412/54dred4a31/67903
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA PAC 12 Oregon
+http://zikri.xtpold.com:80/perge412/54dred4a31/67902
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA PAC 12 WASHINGTON
+http://zikri.xtpold.com:80/perge412/54dred4a31/67901
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA SEC NETWORK
+http://zikri.xtpold.com:80/perge412/54dred4a31/67900
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA SNY
+http://zikri.xtpold.com:80/perge412/54dred4a31/67899
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA 3 SPECTRUM SPORTSNET (Lakers)
+http://zikri.xtpold.com:80/perge412/54dred4a31/67898
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA Sportsman Channel
+http://zikri.xtpold.com:80/perge412/54dred4a31/67897
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA SPORTSNET LA DODGERS
+http://zikri.xtpold.com:80/perge412/54dred4a31/67896
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA SPORTSNET LA LAKERS
+http://zikri.xtpold.com:80/perge412/54dred4a31/67895
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA TENNIS CHANNEL
+http://zikri.xtpold.com:80/perge412/54dred4a31/67894
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA TVG NETWORK
+http://zikri.xtpold.com:80/perge412/54dred4a31/67893
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA UFC Channel
+http://zikri.xtpold.com:80/perge412/54dred4a31/67892
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA UFC FIGHT PASS
+http://zikri.xtpold.com:80/perge412/54dred4a31/67891
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA WORLD FISHING NETWORK
+http://zikri.xtpold.com:80/perge412/54dred4a31/67890
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA YES NETWORK
+http://zikri.xtpold.com:80/perge412/54dred4a31/67889
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA MLB Network
+http://zikri.xtpold.com:80/perge412/54dred4a31/67888
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA NHL NETWORK
+http://zikri.xtpold.com:80/perge412/54dred4a31/67887
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA NFL NETWORK
+http://zikri.xtpold.com:80/perge412/54dred4a31/67886
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA NFL REDZONE
+http://zikri.xtpold.com:80/perge412/54dred4a31/67885
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",USA NBA TV
+http://zikri.xtpold.com:80/perge412/54dred4a31/67884
+
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN A&E HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67882
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN ABC HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67881
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN ABC SPARK HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67880
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN ADDIK (FR)
+http://zikri.xtpold.com:80/perge412/54dred4a31/67879
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN AMC HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67878
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN ANIMAL PLANET HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67877
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN APTN
+http://zikri.xtpold.com:80/perge412/54dred4a31/67876
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN AMI TV ENGLISH
+http://zikri.xtpold.com:80/perge412/54dred4a31/67875
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN BBC AMERICA
+http://zikri.xtpold.com:80/perge412/54dred4a31/67874
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN BBC EARTH
+http://zikri.xtpold.com:80/perge412/54dred4a31/67873
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN BNN BLOOMBERG
+http://zikri.xtpold.com:80/perge412/54dred4a31/67872
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CA CTV Sydney
+http://zikri.xtpold.com:80/perge412/54dred4a31/67871
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN Canada One
+http://zikri.xtpold.com:80/perge412/54dred4a31/67870
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CARTOON NETWORK HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67869
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CBC CALGARY HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67868
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CBC Charlottetown
+http://zikri.xtpold.com:80/perge412/54dred4a31/67867
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CBC Edmonton
+http://zikri.xtpold.com:80/perge412/54dred4a31/67866
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CBC Fredericton
+http://zikri.xtpold.com:80/perge412/54dred4a31/67865
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CBC Halifax
+http://zikri.xtpold.com:80/perge412/54dred4a31/67864
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CBC HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67863
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CBC MONTREAL
+http://zikri.xtpold.com:80/perge412/54dred4a31/67862
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CBC NEWS
+http://zikri.xtpold.com:80/perge412/54dred4a31/67861
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CBC OTTAWA
+http://zikri.xtpold.com:80/perge412/54dred4a31/67860
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CBC ST. JOHNS
+http://zikri.xtpold.com:80/perge412/54dred4a31/67859
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CBC TORONTO
+http://zikri.xtpold.com:80/perge412/54dred4a31/67858
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CBC VANCOUVER
+http://zikri.xtpold.com:80/perge412/54dred4a31/67857
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CHCH HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67856
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CITY CALGARY
+http://zikri.xtpold.com:80/perge412/54dred4a31/67855
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CITY MONTREAL
+http://zikri.xtpold.com:80/perge412/54dred4a31/67854
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CMT HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67853
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CNN HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67852
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CNN INTERNATIONAL
+http://zikri.xtpold.com:80/perge412/54dred4a31/67851
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN COOKING CHANNEL HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67850
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN COTTAGE LIFE
+http://zikri.xtpold.com:80/perge412/54dred4a31/67849
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CP 24 HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67848
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CPAC HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67847
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CRAVE 1 HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67846
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CRAVE 2 HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67845
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CRAVE 3 HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67844
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CRAVE 4 HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67843
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CRIME & INVESTIGATION HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67842
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CTV 2 BARRIE
+http://zikri.xtpold.com:80/perge412/54dred4a31/67841
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CTV 2 LONDON
+http://zikri.xtpold.com:80/perge412/54dred4a31/67840
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CTV 2 VANCOUVER
+http://zikri.xtpold.com:80/perge412/54dred4a31/67839
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CTV CALGARY
+http://zikri.xtpold.com:80/perge412/54dred4a31/67838
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CTV COMEDY HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67837
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CTV DRAMA
+http://zikri.xtpold.com:80/perge412/54dred4a31/67836
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CTV Edmonton
+http://zikri.xtpold.com:80/perge412/54dred4a31/67835
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CTV HALIFAX
+http://zikri.xtpold.com:80/perge412/54dred4a31/67834
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CTV KITCHENER HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67833
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CTV LIFE
+http://zikri.xtpold.com:80/perge412/54dred4a31/67832
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CTV Moncton
+http://zikri.xtpold.com:80/perge412/54dred4a31/67831
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CTV MONTREAL
+http://zikri.xtpold.com:80/perge412/54dred4a31/67830
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CTV NEWS CHANNEL HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67829
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CTV OTTAWA
+http://zikri.xtpold.com:80/perge412/54dred4a31/67828
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CTV SCI FI
+http://zikri.xtpold.com:80/perge412/54dred4a31/67827
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CTV Timmins
+http://zikri.xtpold.com:80/perge412/54dred4a31/67826
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CTV TORONTO
+http://zikri.xtpold.com:80/perge412/54dred4a31/67825
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CTV VANCOUVER
+http://zikri.xtpold.com:80/perge412/54dred4a31/67824
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CTV WINNIPEG
+http://zikri.xtpold.com:80/perge412/54dred4a31/67823
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CTV2 Alberta
+http://zikri.xtpold.com:80/perge412/54dred4a31/67822
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CTV2 Atlantic
+http://zikri.xtpold.com:80/perge412/54dred4a31/67821
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CTV2 OTTAWA
+http://zikri.xtpold.com:80/perge412/54dred4a31/67820
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CTV2 Windsor
+http://zikri.xtpold.com:80/perge412/54dred4a31/67819
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN DAYSTAR TV
+http://zikri.xtpold.com:80/perge412/54dred4a31/67818
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN DEJAVIEW
+http://zikri.xtpold.com:80/perge412/54dred4a31/67817
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN DISCOVERY HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67816
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN DISCOVERY SCIENCE HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67815
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN DISNEY JR HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67814
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN DISNEY XD HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67813
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN DTOUR
+http://zikri.xtpold.com:80/perge412/54dred4a31/67812
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN E! HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67811
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN FAMILY
+http://zikri.xtpold.com:80/perge412/54dred4a31/67810
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN FAMILY CHRGD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67809
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN FAMILY JUNIOR
+http://zikri.xtpold.com:80/perge412/54dred4a31/67808
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN FOOD NETWORK
+http://zikri.xtpold.com:80/perge412/54dred4a31/67807
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN Fox HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67806
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN FOX NEWS
+http://zikri.xtpold.com:80/perge412/54dred4a31/67805
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN FOX SPORTS RACING
+http://zikri.xtpold.com:80/perge412/54dred4a31/67804
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN FX HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67803
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN FXX
+http://zikri.xtpold.com:80/perge412/54dred4a31/67802
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN The Fight Network
+http://zikri.xtpold.com:80/perge412/54dred4a31/67801
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN GAME SHOW NETWORK HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67800
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN Game TV
+http://zikri.xtpold.com:80/perge412/54dred4a31/67799
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN GLOBAL CALGARY
+http://zikri.xtpold.com:80/perge412/54dred4a31/67798
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN Global Durham
+http://zikri.xtpold.com:80/perge412/54dred4a31/67797
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN GLOBAL EDMONTON
+http://zikri.xtpold.com:80/perge412/54dred4a31/67796
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN GLOBAL HALIFAX
+http://zikri.xtpold.com:80/perge412/54dred4a31/67795
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN GLOBAL HD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67794
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN GLOBAL KINGSTON
+http://zikri.xtpold.com:80/perge412/54dred4a31/67793
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN Global Maritimes
+http://zikri.xtpold.com:80/perge412/54dred4a31/67792
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN GLOBAL TORONTO
+http://zikri.xtpold.com:80/perge412/54dred4a31/67791
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN GLOBAL VANCOUVER
+http://zikri.xtpold.com:80/perge412/54dred4a31/67790
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN GLOBAL Winnipeg
+http://zikri.xtpold.com:80/perge412/54dred4a31/67789
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN GOLF CHANNEL
+http://zikri.xtpold.com:80/perge412/54dred4a31/67788
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN GSN
+http://zikri.xtpold.com:80/perge412/54dred4a31/67787
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN SHOWCASE
+http://zikri.xtpold.com:80/perge412/54dred4a31/67786
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN H2
+http://zikri.xtpold.com:80/perge412/54dred4a31/67785
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN HBO
+http://zikri.xtpold.com:80/perge412/54dred4a31/67784
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN HBO 2
+http://zikri.xtpold.com:80/perge412/54dred4a31/67783
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN HGTV
+http://zikri.xtpold.com:80/perge412/54dred4a31/67782
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN HISTORY
+http://zikri.xtpold.com:80/perge412/54dred4a31/67781
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN HLN
+http://zikri.xtpold.com:80/perge412/54dred4a31/67780
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN HOLLYWOOD SUITE 00'S MOVIES
+http://zikri.xtpold.com:80/perge412/54dred4a31/67779
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN HOLLYWOOD SUITE 70'S MOVIES
+http://zikri.xtpold.com:80/perge412/54dred4a31/67778
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN HOLLYWOOD SUITE 80'S MOVIES
+http://zikri.xtpold.com:80/perge412/54dred4a31/67777
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN HOLLYWOOD SUITE 90'S MOVIES
+http://zikri.xtpold.com:80/perge412/54dred4a31/67776
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN IFC
+http://zikri.xtpold.com:80/perge412/54dred4a31/67775
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN INVESTIGATION DISCOVERY
+http://zikri.xtpold.com:80/perge412/54dred4a31/67774
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN KTLA
+http://zikri.xtpold.com:80/perge412/54dred4a31/67773
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN LIFETIME
+http://zikri.xtpold.com:80/perge412/54dred4a31/67772
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN LIFETIME MOVIE NETWORK
+http://zikri.xtpold.com:80/perge412/54dred4a31/67771
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN Love Nature
+http://zikri.xtpold.com:80/perge412/54dred4a31/67770
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN MAGNOLIA NETWORK
+http://zikri.xtpold.com:80/perge412/54dred4a31/67769
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN MakeFul
+http://zikri.xtpold.com:80/perge412/54dred4a31/67768
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN MAVTV
+http://zikri.xtpold.com:80/perge412/54dred4a31/67767
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN FR MAX
+http://zikri.xtpold.com:80/perge412/54dred4a31/67766
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN MOVIETIME
+http://zikri.xtpold.com:80/perge412/54dred4a31/67765
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN MTV 2
+http://zikri.xtpold.com:80/perge412/54dred4a31/67764
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN MUCH
+http://zikri.xtpold.com:80/perge412/54dred4a31/67763
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN NAT GEO
+http://zikri.xtpold.com:80/perge412/54dred4a31/67762
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN NAT GEO WILD
+http://zikri.xtpold.com:80/perge412/54dred4a31/67761
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN NBA TV Canada
+http://zikri.xtpold.com:80/perge412/54dred4a31/67760
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN NICKTOONS
+http://zikri.xtpold.com:80/perge412/54dred4a31/67759
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN NTV
+http://zikri.xtpold.com:80/perge412/54dred4a31/67758
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN OLN
+http://zikri.xtpold.com:80/perge412/54dred4a31/67757
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN OMNI 1
+http://zikri.xtpold.com:80/perge412/54dred4a31/67756
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN OMNI 2
+http://zikri.xtpold.com:80/perge412/54dred4a31/67755
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN OMNI BC
+http://zikri.xtpold.com:80/perge412/54dred4a31/67754
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN ONE
+http://zikri.xtpold.com:80/perge412/54dred4a31/67753
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN PEACH TREE
+http://zikri.xtpold.com:80/perge412/54dred4a31/67752
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN REV TV
+http://zikri.xtpold.com:80/perge412/54dred4a31/67751
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN REWIND
+http://zikri.xtpold.com:80/perge412/54dred4a31/67750
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN SILVER SCREEN CLASSICS
+http://zikri.xtpold.com:80/perge412/54dred4a31/67749
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN SLICE
+http://zikri.xtpold.com:80/perge412/54dred4a31/67748
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN SMITHSONIAN CHANNEL
+http://zikri.xtpold.com:80/perge412/54dred4a31/67747
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN SPIKE TV / PARAMOUNT CANADA
+http://zikri.xtpold.com:80/perge412/54dred4a31/67746
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN STARZ 1
+http://zikri.xtpold.com:80/perge412/54dred4a31/67745
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN STARZ 2
+http://zikri.xtpold.com:80/perge412/54dred4a31/67744
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN SUPER CHANNEL FUSE
+http://zikri.xtpold.com:80/perge412/54dred4a31/67743
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN SUPER CHANNEL HEART & HOME
+http://zikri.xtpold.com:80/perge412/54dred4a31/67742
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN Super Channel Vault
+http://zikri.xtpold.com:80/perge412/54dred4a31/67741
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN TELETOON
+http://zikri.xtpold.com:80/perge412/54dred4a31/67736
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN THE SHOPPING CHANNEL
+http://zikri.xtpold.com:80/perge412/54dred4a31/67735
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN TLC
+http://zikri.xtpold.com:80/perge412/54dred4a31/67734
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN TLN
+http://zikri.xtpold.com:80/perge412/54dred4a31/67733
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN TRAVEL ESCAPE
+http://zikri.xtpold.com:80/perge412/54dred4a31/67732
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN TREEHOUSE
+http://zikri.xtpold.com:80/perge412/54dred4a31/67731
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN TVO
+http://zikri.xtpold.com:80/perge412/54dred4a31/67730
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN W NETWORK
+http://zikri.xtpold.com:80/perge412/54dred4a31/67729
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN WEATHER NETWORK
+http://zikri.xtpold.com:80/perge412/54dred4a31/67728
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN WFN
+http://zikri.xtpold.com:80/perge412/54dred4a31/67727
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN WGN
+http://zikri.xtpold.com:80/perge412/54dred4a31/67726
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN Wild TV
+http://zikri.xtpold.com:80/perge412/54dred4a31/67725
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN FR YOOPA
+http://zikri.xtpold.com:80/perge412/54dred4a31/67724
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN YTV
+http://zikri.xtpold.com:80/perge412/54dred4a31/67723
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN FR UNIS TV
+http://zikri.xtpold.com:80/perge412/54dred4a31/67721
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN CBS NEWS
+http://zikri.xtpold.com:80/perge412/54dred4a31/67692
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN TSN 1
+http://zikri.xtpold.com:80/perge412/54dred4a31/67691
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN TSN 2
+http://zikri.xtpold.com:80/perge412/54dred4a31/67690
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN TSN 3
+http://zikri.xtpold.com:80/perge412/54dred4a31/67689
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN TSN 4
+http://zikri.xtpold.com:80/perge412/54dred4a31/67688
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN TSN 5
+http://zikri.xtpold.com:80/perge412/54dred4a31/67687
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN SPORTSNET WEST
+http://zikri.xtpold.com:80/perge412/54dred4a31/67686
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN SPORTSNET EAST
+http://zikri.xtpold.com:80/perge412/54dred4a31/67685
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN SPORTSNET ONE
+http://zikri.xtpold.com:80/perge412/54dred4a31/67684
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN SPORTSNET 360
+http://zikri.xtpold.com:80/perge412/54dred4a31/67683
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN SPORTSNET NY
+http://zikri.xtpold.com:80/perge412/54dred4a31/67682
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN SPORTSNET PACIFIC
+http://zikri.xtpold.com:80/perge412/54dred4a31/67681
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN SPORTSNET ONTARIO
+http://zikri.xtpold.com:80/perge412/54dred4a31/67680
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN HPi TV
+http://zikri.xtpold.com:80/perge412/54dred4a31/67679
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN BeIN SPORTS CANADA
+http://zikri.xtpold.com:80/perge412/54dred4a31/67678
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN DAZN NFL Network
+http://zikri.xtpold.com:80/perge412/54dred4a31/67677
+#EXTINF:-1 group-title="USA n CANADA BKUP PLUS",CAN DAZN MLB Network
+http://zikri.xtpold.com:80/perge412/54dred4a31/67676
